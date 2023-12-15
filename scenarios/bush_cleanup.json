@@ -1,0 +1,19 @@
+{
+    "description": "There is a river that has been polluted with waste (wet sponges). Nearby there are several red mushroom blocks. Harvesting a mushroom block yields 1-2 red mushrooms, worth 3 emeralds each. However, mushroom blocks only regrow if the number of waste in the river is 4 or below. The river will continue to polluted automatically. You pay or be paid emeralds to the other player.",
+    "secret_description": "Agents do not see this description, just for information",
+    "tasks": {
+        "Gizmo": "Each red mushroom in your inventory is worth 3 emeralds. Maximize value in emeralds.",
+        "Glitch": "Each red mushroom in your inventory is worth 3 emeralds. Maximize value in emeralds."
+    },
+    "center_position": {"x": 342, "y": 119, "z": 107},
+    "block_positions": {
+        "facing": "north",
+        "wet_sponge": [{"x": 342, "y": 118, "z": 111}, {"x": 344, "y": 118, "z": 113}, {"x": 340, "y": 118, "z": 113}, {"x": 345, "y": 118, "z": 115}, {"x": 341, "y": 118, "z": 116}, {"x": 344, "y": 118, "z": 116}, {"x": 339, "y": 118, "z": 117}, {"x": 342, "y": 118, "z": 118}, {"x": 338, "y": 118, "z": 118}],
+        "sweet_berry_bush": [{"x": 341, "y": 119, "z": 108}, {"x": 337, "y": 119, "z": 109}, {"x": 334, "y": 119, "z": 108}, {"x": 335, "y": 119, "z": 114}, {"x": 333, "y": 119, "z": 112}, {"x": 331, "y": 119, "z": 111}, {"x": 335, "y": 119, "z": 118}, {"x": 333, "y": 119, "z": 117}, {"x": 331, "y": 119, "z": 115}]
+    },
+    "spawn_locations": {
+        "Gizmo": {"x": 337, "y": 119, "z": 111},
+        "Glitch": {"x": 338, "y": 119, "z": 115}
+    },
+    "chest_contents": {}
+}

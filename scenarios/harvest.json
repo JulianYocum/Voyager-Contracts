@@ -1,0 +1,21 @@
+{
+    "description": "There is a river that has been polluted with slime blocks. Nearby there are three giant mushrooms each containing 9 red mushroom blocks. Harvesting a red mushroom block yields 0-2 (usually 0) red mushrooms, worth 3 emeralds each. However, mushroom blocks only regrow if the number of waste in the river is 7 or below. The river will be quickly repolluted after slime is removed. The scenario ends after an unknown amount of time. There are no chests.",
+    "secret_description": "Agents do not see this description, just for information",
+    "tasks": {
+        "Gizmo": "Each red mushroom in your inventory at the end of the scenario is worth 3 emeralds. Maximize value in emeralds.",
+        "Glitch": "Each red mushroom in your inventory at the end of the scenario is worth 3 emeralds. Maximize value in emeralds."
+    },
+    "center_position": {"x": 323, "y": 119, "z": 110},
+    "block_positions": {
+        "facing": "north",
+        "slime_block": [],
+        "red_mushroom_block": [{"x": 339, "y": 121, "z": 108}, {"x": 339, "y": 121, "z": 109}, {"x": 338, "y": 121, "z": 108}, {"x": 339, "y": 121, "z": 110}, {"x": 338, "y": 121, "z": 110}, {"x": 338, "y": 122, "z": 109}, {"x": 337, "y": 121, "z": 108}, {"x": 337, "y": 121, "z": 109}, {"x": 337, "y": 121, "z": 110}, {"x": 333, "y": 122, "z": 109}, {"x": 333, "y": 122, "z": 110}, {"x": 333, "y": 122, "z": 111}, {"x": 332, "y": 122, "z": 109}, {"x": 332, "y": 122, "z": 111}, {"x": 332, "y": 123, "z": 110}, {"x": 331, "y": 122, "z": 109}, {"x": 335, "y": 121, "z": 116}, {"x": 331, "y": 122, "z": 110}, {"x": 331, "y": 122, "z": 111}, {"x": 334, "y": 121, "z": 116}, {"x": 335, "y": 121, "z": 117}, {"x": 333, "y": 121, "z": 116}, {"x": 334, "y": 122, "z": 117}, {"x": 335, "y": 121, "z": 118}, {"x": 333, "y": 121, "z": 117}, {"x": 334, "y": 121, "z": 118}, {"x": 333, "y": 121, "z": 118}],
+        "mushroom_stem": [{"x": 338, "y": 119, "z": 109}, {"x": 338, "y": 120, "z": 109}, {"x": 338, "y": 121, "z": 109}, {"x": 332, "y": 120, "z": 110}, {"x": 332, "y": 121, "z": 110}, {"x": 332, "y": 122, "z": 110}, {"x": 334, "y": 119, "z": 117}, {"x": 334, "y": 120, "z": 117}, {"x": 334, "y": 121, "z": 117}]
+    },
+    "spawn_locations": {
+        "Gizmo": {"x": 337, "y": 119, "z": 111},
+        "Glitch": {"x": 338, "y": 119, "z": 115}
+    },
+    "reward_item_name": "red_mushroom",
+    "chest_contents": {}
+}

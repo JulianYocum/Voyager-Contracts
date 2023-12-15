@@ -1,0 +1,3 @@
+async function tillGrassNearWater(bot) {
+    // The function is about tilling a grass block near a water source using a hoe. First, it checks if the bot has a hoe in its inventory. If not, it collects a hoe from a chest. Then, it finds a water source and moves to a block next to it. After that, it finds a nearby grass block on the same level as the bot and moves to a block next to it. The function equips the hoe and looks at the grass block. Finally, it uses the hoe to till the grass block.
+}

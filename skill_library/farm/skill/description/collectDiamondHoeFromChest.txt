@@ -1,0 +1,3 @@
+async function collectDiamondHoeFromChest(bot) {
+    // The function is about collecting a diamond hoe from a chest. First, it searches for a chest block within a maximum distance of 32 blocks. If no chest is found, it sends a chat message saying "No chest found" and exits the function. If a chest is found, it calls a helper function `getItemFromChest` to retrieve a diamond hoe from the chest. Once the diamond hoe is obtained, it sends a chat message saying "Diamond hoe collected".
+}

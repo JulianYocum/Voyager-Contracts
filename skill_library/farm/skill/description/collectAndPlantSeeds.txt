@@ -1,0 +1,3 @@
+async function collectAndPlantSeeds(bot) {
+    // The function is about collecting and planting wheat seeds. First, it checks if there are seeds in the inventory. If not, it collects seeds from a chest. If there are seeds available, it finds a farmland block and moves towards it. Then, it equips the seeds in the hand and looks at the farmland block. Finally, it uses the seeds to plant them on the farmland block.
+}

@@ -1,0 +1,3 @@
+async function collectTenSeedsFromChest(bot) {
+    // The function is about collecting 10 wheat seeds from a chest. First, it searches for a chest block within a maximum distance of 32 blocks. If no chest is found, it sends a chat message saying "No chest found" and exits the function. If a chest is found, it calls a helper function to retrieve 10 wheat seeds from the chest. After successfully collecting the seeds, it sends a chat message saying "10 seeds collected".
+}
